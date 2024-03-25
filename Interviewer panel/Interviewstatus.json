@@ -1,0 +1,21 @@
+[ {
+  "name" : "mani",
+  "id" : 1,
+  "qualification" : "bca",
+  "experience" : 3,
+  "email" : "qwer@ghj.in",
+  "phoneno" : 1234567890,
+  "location" : "ghjkl",
+  "status" : "Selected",
+  "mark" : 4
+}, {
+  "name" : "ishak",
+  "id" : 2,
+  "qualification" : "bcom",
+  "experience" : 4,
+  "email" : "fghj@ghj.in",
+  "phoneno" : 1234567890,
+  "location" : "madurai",
+  "status" : "Not Selected",
+  "mark" : 2
+} ]
