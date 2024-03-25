@@ -1,0 +1,28 @@
+[ {
+  "name" : "java",
+  "author" : "sdfg",
+  "publication" : 123,
+  "id" : 1,
+  "edition" : 123,
+  "availability" : 4,
+  "volume" : 23,
+  "isAvailability" : 4
+}, {
+  "name" : "java script",
+  "author" : "dfghjk",
+  "publication" : 234,
+  "id" : 2,
+  "edition" : 34,
+  "availability" : 2,
+  "volume" : 2345,
+  "isAvailability" : 2
+}, {
+  "name" : "vb.next",
+  "author" : "dfgh",
+  "publication" : 3456,
+  "id" : 3,
+  "edition" : 23,
+  "availability" : 2,
+  "volume" : 234,
+  "isAvailability" : 2
+} ]
